@@ -1,0 +1,11 @@
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/collector/RestOperationsSupplier.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/collector/HudsonClient.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/collector/HudsonSettings.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/repository/HudsonJobRepository.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/repository/HudsonCollectorRepository.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/collector/DefaultHudsonClient.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/Application.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/collector/HudsonCollectorTask.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/model/HudsonCollector.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/model/HudsonJob.java
+/home/centos/HygieiaFiles/hygieia-build-jenkins-collector/src/main/java/com/capitalone/dashboard/model/HudsonJobConfig.java
